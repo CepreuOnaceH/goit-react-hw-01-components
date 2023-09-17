@@ -1,0 +1,25 @@
+.title {
+  text-align: center;
+  font-size: 16px;
+  color: rgb(50, 78, 99);
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+.statList {
+  display: flex;
+  flex-wrap: nowrap;
+  width: 100%;
+  padding: 0;
+}
+.item {
+  flex: 1 1 0%;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  width: calc(20%);
+  background-color: rgb(222, 252, 249);
+}

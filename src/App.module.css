@@ -1,0 +1,8 @@
+.main {
+  width: 300px;
+  box-shadow: rgba(13, 28, 39, 0.6) 0px 8px 60px -10px;
+  background: rgb(255, 255, 255);
+  border-radius: 12px;
+  padding-bottom: 15px;
+  margin: 0 auto;
+}
