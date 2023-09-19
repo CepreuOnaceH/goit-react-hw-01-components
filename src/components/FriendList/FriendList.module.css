@@ -1,28 +1,3 @@
-.item {
-  width: 100%;
-  display: flex;
-  -webkit-box-align: center;
-  align-items: center;
-  gap: 10px;
-  padding-left: 10px;
-  justify-content: space-evenly;
-}
-
-.status-online {
-  border-radius: 10px;
-  display: block;
-  width: 10px;
-  height: 10px;
-  background-color: #00cc00;
-}
-
-.status-offline {
-  border-radius: 10px;
-  display: block;
-  width: 10px;
-  height: 10px;
-  background-color: #ff0000;
-}
 .friendList {
   display: flex;
   list-style: none;
